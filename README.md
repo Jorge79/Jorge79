@@ -9,8 +9,8 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jorge79&show_icons=true&hide=stars,issues,contribs&theme=tokyonight&include_all_commits=true&count_private=true" alt="Card containing the Github's statuses" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge79&layout=compact&langs_count=5&theme=tokyonight" alt="Card containig the most used programming languages" />
+  <img height="150em" width="45%" src="https://github-readme-stats.vercel.app/api?username=Jorge79&show_icons=true&hide=stars,issues,contribs&theme=tokyonight&include_all_commits=true&count_private=true" alt="Card containing the Github's statuses" />
+  <img height="150em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge79&layout=compact&langs_count=5&theme=tokyonight" alt="Card containig the most used programming languages" />
 </div>
 
 <br>
