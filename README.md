@@ -2,7 +2,7 @@
 #### I'm Jorge Francisco 
 
 - 💻 Computer Engineer and Front end developer
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning [Next.js](https://nextjs.org/)
 - 🏡 Brazilian, based in Salvador-BA
 
 ##
