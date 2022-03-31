@@ -1,4 +1,4 @@
-### Hello world! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Hello gif" /> <img align="right" width="250px" height="180px" src="https://media.giphy.com/media/SwImQhtiNA7io/giphy.gif" alt="A gif of a dog typing" /> 
+### Hello world! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Hello gif" /> <img align="right" width="210px" height="140px" src="https://media.giphy.com/media/SwImQhtiNA7io/giphy.gif" alt="A gif of a dog typing" /> 
 #### I'm Jorge Francisco 
 
 - 💻 Computer Engineer and Front end developer
