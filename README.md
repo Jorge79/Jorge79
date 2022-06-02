@@ -1,5 +1,5 @@
 <heading>
-  <h1>Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Hello gif" /></h1>
+  <h1>Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" alt="Hello gif" /></h1>
 </heading>
 
 
